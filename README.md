@@ -4,6 +4,8 @@
 [![Solved.ac](https://img.shields.io/badge/Solved-inup-17ce3a?style=flat-square)](https://inup.site/)
 [![Email](https://img.shields.io/badge/Email-inup@kakao.com-yellow?style=flat-square)](mailto:inup@kakao.com)
 
+![image](https://github.com/user-attachments/assets/0370db4b-dccd-41c5-a8ed-e2e78ef38577)
+
 
 ### 👨🏻‍💻 About Me
 
@@ -13,11 +15,8 @@
 
 ### 🛠 Tech Stack
 
-<!-- Frontend -->
 - **Frontend**&nbsp; React(Next.js), Flutter, TailwindCSS
-<!-- Backend -->
 - **Backend**&nbsp; SpringBoot, FastAPI
-<!-- Other -->
 - **Other**&nbsp; MySQL, Figma, Firebase, AWS
 
 <br/>
