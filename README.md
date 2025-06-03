@@ -23,7 +23,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [iSH shell을 이용하여 옵시디언 iOS-Windows 동기화하기](https://in-up.netlify.app/obsidian-ios/)
+- [iSH Shell을 이용하여 옵시디언 iOS-Windows 동기화하기](https://in-up.netlify.app/obsidian-ios/)
 - [K-AI Purdue 프로그램 선발](https://in-up.netlify.app/purdue-01/)
 - [SQLD 합격](https://in-up.netlify.app/sqld-certificate/)
 - [정렬된 데이터를 순차 탐색하는 스위핑 &lpar;Sweeping&rpar;](https://in-up.netlify.app/algorithm-10-sweeping/)
