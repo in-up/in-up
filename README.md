@@ -27,5 +27,5 @@
 - [운영체제&lpar;Operating System&rpar; - 5. CPU 스케줄링](https://in-up.netlify.app/os-05-cpu-scheduling/)
 - [운영체제&lpar;Operating System&rpar; - 4. 스레드](https://in-up.netlify.app/os-04-threads/)
 - [운영체제&lpar;Operating System&rpar; - 3. 프로세스](https://in-up.netlify.app/os-03-process/)
-- [K-AI Purdue 프로그램 선발](https://in-up.netlify.app/purdue-01/)
+- [운영체제&lpar;Operating System&rpar; - 2. 운영체제 구조](https://in-up.netlify.app/os-02-structure/)
 <!-- BLOG-POST-LIST:END -->
