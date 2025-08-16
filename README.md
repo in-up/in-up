@@ -23,9 +23,9 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 퍼듀대학교 K-AI Summer Program &lpar;3&rpar;](https://in-up.netlify.app/kai-purdue-03/)
 - [2025 퍼듀대학교 K-AI Summer Program &lpar;2&rpar;](https://in-up.netlify.app/kai-purdue-02/)
 - [2025 퍼듀대학교 K-AI Summer Program &lpar;1&rpar;](https://in-up.netlify.app/kai-purdue-01/)
 - [iSH Shell을 이용하여 옵시디언 iOS-Windows 동기화하기](https://in-up.netlify.app/obsidian-ios/)
 - [운영체제&lpar;Operating System&rpar; - 7. 고전적인 동기화 문제](https://in-up.netlify.app/os-07-sync-problems/)
-- [운영체제&lpar;Operating System&rpar; - 6. 프로세스 동기화](https://in-up.netlify.app/os-06-synchronization/)
 <!-- BLOG-POST-LIST:END -->
