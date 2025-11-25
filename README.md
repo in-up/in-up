@@ -23,9 +23,9 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [2025 퍼듀대학교 K-AI Summer Program &lpar;3&rpar;](https://in-up.netlify.app/kai-purdue-03/)
-- [2025 퍼듀대학교 K-AI Summer Program &lpar;2&rpar;](https://in-up.netlify.app/kai-purdue-02/)
-- [2025 퍼듀대학교 K-AI Summer Program &lpar;1&rpar;](https://in-up.netlify.app/kai-purdue-01/)
-- [iSH Shell을 이용하여 옵시디언 iOS-Windows 동기화하기](https://in-up.netlify.app/obsidian-ios/)
-- [운영체제&lpar;Operating System&rpar; - 7. 고전적인 동기화 문제](https://in-up.netlify.app/os-07-sync-problems/)
+- [macOS 소프트웨어를 GitHub로 배포하는 방법](https://in-up.netlify.app/claudemeter-03/)
+- [클로드미터는 어떻게 세션 고갈 시점을 예측할까](https://in-up.netlify.app/claudemeter-02/)
+- [내가 클로드미터&lpar;Claudemeter&rpar;를 개발한 이유](https://in-up.netlify.app/claudemeter-01/)
+- [[Swift] struct와 class 사용하기](https://in-up.netlify.app/swift-04/)
+- [[Swift] 함수와 자료구조](https://in-up.netlify.app/swift-03/)
 <!-- BLOG-POST-LIST:END -->
