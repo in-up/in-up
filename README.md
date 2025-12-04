@@ -51,11 +51,11 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TOPCIT 제 24회 정기평가에서 전국 수석을 달성했습니다.](https://in-up.netlify.app/topcit-01/)
 - [macOS 소프트웨어를 GitHub로 배포하는 방법](https://in-up.netlify.app/claudemeter-03/)
 - [클로드미터는 어떻게 세션 고갈 시점을 예측할까](https://in-up.netlify.app/claudemeter-02/)
 - [내가 클로드미터&lpar;Claudemeter&rpar;를 개발한 이유](https://in-up.netlify.app/claudemeter-01/)
 - [[Swift] struct와 class 사용하기](https://in-up.netlify.app/swift-04/)
-- [[Swift] 함수와 자료구조](https://in-up.netlify.app/swift-03/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://inup.site">
