@@ -51,11 +51,11 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [나의 2025년](https://in-up.netlify.app/rewind-2025/)
 - [DND 14기 &lpar;백엔드&rpar; OT](https://in-up.netlify.app/dnd-01/)
-- [SSAFY 15기 합격](https://in-up.netlify.app/ssafy-01/)
 - [네이버 클라우드 Cloud Outbound Mailer를 이용한 이메일 인증 구현](https://in-up.netlify.app/ncp-mailing/)
 - [GitHub Actions와 도커를 활용한 CI/CD 가장 빠르게 구축하기](https://in-up.netlify.app/github-actions-ci-cd/)
+- [제 24회 TOPCIT 성적우수자 시상식 및 장관상 후기](https://in-up.netlify.app/topcit-award/)
+- [TOPCIT 제 24회 정기평가에서 전국 수석을 달성했습니다.](https://in-up.netlify.app/topcit-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://inup.site">
